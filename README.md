@@ -1,3 +1,3 @@
 # flutter_pratica_widgets
 
-A new Flutter project.
+Calculadora simples para testar os Widgets do Flutter.
